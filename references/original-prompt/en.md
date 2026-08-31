@@ -1,6 +1,6 @@
 # XXD Panel 067 Original prompt · English reading translation
 
-Please make each photo I upload into an independent high-end design poster. No splicing of multiple pictures, and each photo will be output separately. The overall composition adopts a 3:4 vertical composition, with ** strictly cut in a 50:50 ratio from top to bottom, each occupying 50% of the screen.
+Please make each photo I upload into an independent high-end design poster. No splicing of multiple pictures, and each photo will be output separately. The overall composition adopts a 3:4 vertical composition, with ** strictly cut in a 50:50 ratio from top to bottom, each occupying 50% of the screen**.
 
 The upper part retains the original photo, maintaining the main structure, real texture, natural light and shadow, and original color atmosphere. It only undergoes slight advanced photography color grading to give it the texture of art magazine and exhibition photography. The sky, ground, or environmental background can be naturally expanded to fit the frame, but the subject must not be stretched, distorted, or altered.
 
@@ -10,7 +10,7 @@ The picture uses two fixed hand-painted ink colors ** red and blue **, with no o
 
 Lines are kept thin, loose, slightly askew and hand-incorrect, allowing for jitters, breaks, repeated tracings, slight exaggeration of proportions and incomplete closure. The form is simple and direct, like a casually drawn observation of life, but the key outlines, postures and relationships must be accurate. Avoid glossy vectors, neat strokes, and overly cutesy cartoon shapes.
 
-The composition emphasizes white space, visual focus, scale contrast and rhythm of graphics and text. The subject can be offset, reduced, suspended or concentrated in part, without filling the lower half of the picture; the large blank space assumes the sense of air and emotion. A very small number of small elements, symbols, movement traces or directional lines with real narrative significance can be extracted from the original picture to form a loose but logical relationship with the subject, rather than being scattered decoratively. The whole seems random, but actually has a clear balance, rhythm and reading path.
+The composition emphasizes **white space, visual focus, scale contrast and rhythm of graphics and text**. The subject can be offset, reduced, suspended or concentrated in part, without filling the lower half of the picture; the large blank space assumes the sense of air and emotion. A very small number of small elements, symbols, movement traces or directional lines with real narrative significance can be extracted from the original picture to form a loose but logical relationship with the subject, rather than being scattered decoratively. The whole seems random, but actually has a clear balance, rhythm and reading path.
 
 The background was intelligently matched based on the comprehensive color temperature of the photo above to **, an extremely light, nearly white paper background color **, with only a very slight warm-to-cold tendency and natural paper fiber particles. It is not yellowed, old, or distracting from the image.
 

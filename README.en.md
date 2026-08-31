@@ -49,15 +49,16 @@ These four works reuse the corresponding independent sources and are regenerated
 <!-- xxd-human-intro:start -->
 ## Where this Panel fits — and what it solves
 
-When a photograph needs to become a poster, cover, social asset, or wallpaper, the real design problem is rarely a simple change of style. The challenge is to redesign it while preserving identity, key relationships, mood, and recognisability.
+What makes many everyday photographs moving is not a grand scene, but a gesture, an interaction, or a hint of hard-to-explain humour. Fully colouring the image can make those details feel ordinary, while too much decoration can bury the intimacy of something casually jotted down.
 
-**Panel 067** is suited to work that must retain the source's essential content while pursuing this visual direction: **Use fixed red and blue ink to record humorous and gentle daily observations**. It begins with intended use and desired outcome; layout, size, text, and delivery format follow from those needs.
+**Panel 067** uses only red and blue hand-drawn inks, compressing the principal action and relationships into a page of private observations. Crooked lines, conversational snippets, and broad areas of pale paper preserve warmth and humour together, without packaging the photograph as a generic illustration.
 
 ### Use it when
 
-- **Content must remain anchored:** people, objects, actions, and relationships should not be replaced by an unrelated template.
-- **The image needs stronger expression:** you want a clearer editorial language, artistic treatment, or narrative focus.
-- **Delivery must stay flexible:** one source needs comparison layouts, design-only artwork, multiple ratios, or a wallpaper set.
+- **You want to capture an amusing moment from ordinary life:** the actions and relationships among people, animals, and objects need to become the centre of the story.
+- **You want a strong identity from very few colours:** a fixed red-and-blue ink system creates visual consistency instead of expanding the photograph into a multicolour palette.
+- **The words should feel observed, not advertised:** small handwritten words, conversational phrases, or sound effects naturally answer the contours and negative space.
+- **You need flexible delivery:** it supports top–bottom and left–right comparisons, design-only output, multiple aspect ratios, four-device wallpaper sets, and batch processing of image folders.
 
 ### A simple way to begin
 
@@ -65,7 +66,7 @@ You do not need to review every option first. Send your Agent an image and say:
 
 > Use XXD Panel 067 on this image and recommend the best layout and size first.
 
-Review the samples below if you want to confirm the visual direction first. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
+Use the samples above to confirm the visual direction. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference below.
 <!-- xxd-human-intro:end -->
 
 ## Original prompt · Five languages
