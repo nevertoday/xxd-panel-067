@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦁 XXD Panel 067
+# 🦁 XXD Panel 067｜Everyday Humor Drawing
 
 ### Use fixed red and blue ink to record humorous and gentle daily observations
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦁 XXD Panel 067
+# 🦁 XXD Panel 067｜日常幽默画
 
 ### 用固定红蓝双墨记录幽默、温柔的日常观察
 
