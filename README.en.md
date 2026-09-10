@@ -65,6 +65,15 @@ You do not need to review every option first. Send your Agent an image and say:
 Use the samples above to confirm the visual direction. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference below.
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -85,24 +94,6 @@ Panel 067 uses only two hand-drawn inks, red and blue, to retell a core scene wi
 | **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
 | **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
 <!-- xxd-panel-benefit:end -->
-
-## How it turns your source into a distinctive result
-
-Using only fixed red and blue drawing inks, it condenses an amusing, moving, or metaphorical everyday moment into one narrative centre and a few clues. Naive line, conversational fragments, and a broad pale-paper field create a warm, humorous private observation.
-
-```text
-identify the everyday narrative centre → remove the complete scene and decorative information → simplify contour, action, and relationships in red-blue ink → let a few symbols and directional marks support the story → establish mood through broad pale-paper space → add conversational, onomatopoeic, or lingering fragments
-```
-
-## What makes the finished style recognizable
-
-- Red and blue are the two fixed primary inks; the photograph does not expand them into a multicolour palette.
-- Lines are fine, crooked, broken, or redrawn, with naive proportional exaggeration but accurate relationships.
-- Only one narrative centre and a few meaningful symbols, action traces, or directional lines remain.
-- The subject never fills the field; a near-white paper ground carries air, humour, and tenderness.
-- Small handwritten words, conversational phrases, sounds, or one lingering sentence echo contours, arrows, and empty space.
-
-Aesthetic constraints and rejection rules live only in the [original source brief](references/original-prompt/zh-CN.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-067-prompt.en.md)
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
