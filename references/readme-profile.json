@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 067｜Everyday Humor Drawing: turns the funniest or most touching moment of a photo into a private observation-notebook page drawn in only two fixed hand-drawn inks, a crisp crayon- or ballpoint-like blue and a warm vermilion-to-tomato red, regardless of the photo's colours — thin, loose, slightly crooked lines, small partial fills, arrows and marks, one narrative centre placed off-centre on a near-white paper ground with wide whitespace, and short words, exclamations or onomatopoeia in small, childlike handwriting. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-067 or asks for red-and-blue ink doodles, humorous daily-life sketches or two-colour notebook drawings from a photo.",
+  "short_description": "日常幽默画：只用固定的红蓝两色手绘墨，把照片画成幽默温柔的私人观察笔记",
+  "zh-CN": {
+    "name": "日常幽默画",
+    "tagline": "只用红蓝两色手绘墨，把照片里的一个有趣瞬间记成一页私人观察笔记。",
+    "look": "不管原照片是什么颜色，画面只用两种固定墨色：清爽的蜡笔或圆珠笔蓝，和温暖的朱红或番茄红。照片被压缩成一个主要动作或关系，线条纤细、松弛、有点歪，局部填一点色，旁边散着几个箭头、短线或小符号。主体偏在一边，周围是大片接近白色的纸面。文字是小小的、基线不齐的手写字，可能是一个词、一声感叹或拟声词。",
+    "traits": ["固定红蓝", "手绘双墨", "童真幽默", "生活观察", "极浅纸底", "手写短句"],
+    "good": [
+      "有点好笑的日常瞬间：打哈欠的狗、被风吹乱的头发、偷吃的手",
+      "人与动物或物件的小互动：喂鸽子、抱着大西瓜、和猫对视",
+      "动作清楚的单人照片：骑车、跳水坑、提着购物袋小跑"
+    ],
+    "poor": [
+      "需要还原原照片颜色的图：风景色彩、穿搭配色、产品颜色",
+      "复杂的大场景或密集细节：市场全景、机械内部、建筑群",
+      "想要多色上色、可爱卡通模板或光滑数字线条的需求"
+    ]
+  },
+  "en": {
+    "name": "Everyday Humor Drawing",
+    "tagline": "Records a funny moment from your photo as a private notebook page, drawn only in red and blue ink.",
+    "look": "Whatever colours the photo has, the drawing uses only two fixed inks: a crisp crayon- or ballpoint-like blue and a warm vermilion or tomato red. The photo is reduced to one main action or relationship in thin, loose, slightly crooked lines, with a few small fills and some scattered arrows, short strokes or little marks. The subject sits to one side, surrounded by wide near-white paper. The text is small handwriting with a wobbly baseline: a single word, an exclamation or a sound effect.",
+    "traits": ["Fixed red and blue", "Two hand-drawn inks", "Childlike humour", "Everyday observation", "Very pale paper", "Handwritten phrase"],
+    "good": [
+      "Slightly funny everyday moments: a yawning dog, wind-tossed hair, a hand sneaking a snack",
+      "Small interactions between people, animals and things: feeding pigeons, hugging a huge watermelon, a staring contest with a cat",
+      "Single-person photos with a clear action: cycling, jumping a puddle, jogging with shopping bags"
+    ],
+    "poor": [
+      "Images where the original colours matter: landscape colour, outfit colours, product colours",
+      "Complex wide scenes or dense detail: a full market view, machine interiors, clusters of buildings",
+      "Requests for full colour, cute cartoon templates or smooth digital lines"
+    ]
+  },
+  "ja": {
+    "name": "日常ユーモア画",
+    "tagline": "赤と青の二色の手描きインクだけで、写真のおもしろい一瞬を私的な観察ノートの一頁にします。",
+    "look": "元の写真が何色でも、使うのは決まった二色だけです。クレヨンやボールペンのような爽やかな青と、朱色やトマトのような温かい赤。写真は一つの主な動きや関係に絞られ、細くゆるく少し傾いた線で描かれ、ところどころ少しだけ塗り、矢印や短い線、小さな記号が散らばります。主役は片側に寄り、まわりにはほぼ白の紙が大きく広がります。文字は基線の揃わない小さな手書きで、一語、感嘆、擬音などです。",
+    "traits": ["決まった赤と青", "手描きの二色インク", "無邪気なユーモア", "暮らしの観察", "ごく淡い紙", "手書きのひと言"],
+    "good": [
+      "ちょっと笑える日常の一瞬：あくびする犬、風で乱れた髪、つまみ食いする手",
+      "人と動物や物の小さなやりとり：ハトにえさをやる、大きなスイカを抱える、猫とにらめっこ",
+      "動きがはっきりした一人の写真：自転車、水たまりを跳ぶ、買い物袋を提げて小走り"
+    ],
+    "poor": [
+      "元の色を再現したい画像：風景の色、コーディネートの配色、商品の色",
+      "複雑な広い場面や細かい描写：市場の全景、機械の内部、建物の密集",
+      "多色塗り、かわいい漫画のテンプレート、なめらかなデジタル線を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "일상 유머 그림",
+    "tagline": "빨강과 파랑 두 가지 손그림 잉크만으로 사진 속 재미있는 순간을 사적인 관찰 노트 한 장으로 기록합니다.",
+    "look": "원래 사진이 어떤 색이든 그림에는 정해진 두 가지 잉크만 씁니다. 크레용이나 볼펜 같은 산뜻한 파랑과 주홍이나 토마토 같은 따뜻한 빨강입니다. 사진은 주요 동작이나 관계 하나로 줄어들어 가늘고 느슨하며 조금 삐뚤어진 선으로 그려지고, 군데군데 조금 칠한 곳과 화살표, 짧은 선, 작은 기호가 흩어집니다. 주인공은 한쪽에 놓이고 주변에는 거의 흰 종이가 넓게 펼쳐집니다. 글자는 기준선이 들쭉날쭉한 작은 손글씨로, 한 단어나 감탄사, 의성어 정도입니다.",
+    "traits": ["고정된 빨강·파랑", "손그림 두 잉크", "천진한 유머", "생활 관찰", "아주 연한 종이", "손글씨 한마디"],
+    "good": [
+      "조금 웃긴 일상의 순간: 하품하는 강아지, 바람에 헝클어진 머리, 몰래 집어 먹는 손",
+      "사람과 동물, 물건 사이의 작은 교감: 비둘기 모이 주기, 커다란 수박 껴안기, 고양이와 눈싸움",
+      "동작이 분명한 한 사람의 사진: 자전거 타기, 물웅덩이 뛰어넘기, 장바구니 들고 종종걸음"
+    ],
+    "poor": [
+      "원래 색이 중요한 이미지: 풍경의 색감, 옷차림 배색, 제품 색상",
+      "복잡한 넓은 장면이나 촘촘한 세부: 시장 전경, 기계 내부, 빽빽한 건물들",
+      "여러 색 채색, 귀여운 만화 템플릿, 매끈한 디지털 선을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "رسم الفكاهة اليومية",
+    "tagline": "يدوّن لحظة طريفة من صورتك صفحةً في دفتر ملاحظات شخصي، مرسومة بالحبر الأحمر والأزرق فقط.",
+    "look": "أياً كانت ألوان الصورة، لا يستخدم الرسم إلا حبرين ثابتين: أزرق منعش يشبه أقلام الشمع أو القلم الجاف، وأحمر دافئ بين القرمزي ولون الطماطم. تُختزل الصورة إلى حركة أو علاقة رئيسية واحدة بخطوط رفيعة مرتخية مائلة قليلاً، مع تعبئة صغيرة هنا وهناك وأسهم وخطوط قصيرة ورموز صغيرة متناثرة. يقف العنصر في جانب، تحيط به مساحة واسعة من ورق قريب من الأبيض. النص بخط يد صغير على سطر متعرّج: كلمة واحدة أو تعجّب أو صوت محاكٍ.",
+    "traits": ["أحمر وأزرق ثابتان", "حبران مرسومان باليد", "فكاهة طفولية", "ملاحظة يومية", "ورق فاتح جداً", "عبارة بخط اليد"],
+    "good": [
+      "لحظات يومية طريفة: كلب يتثاءب، شعر بعثرته الريح، يد تختلس لقمة",
+      "تفاعلات صغيرة بين الناس والحيوانات والأشياء: إطعام الحمام، احتضان بطيخة ضخمة، تحديق متبادل مع قطة",
+      "صور شخص واحد بحركة واضحة: ركوب دراجة، القفز فوق بركة ماء، الهرولة بأكياس التسوق"
+    ],
+    "poor": [
+      "صور تهمّ فيها الألوان الأصلية: ألوان المناظر الطبيعية، تنسيق الملابس، ألوان المنتجات",
+      "مشاهد واسعة معقدة أو تفاصيل كثيفة: سوق كامل، أجزاء آلات داخلية، تجمّعات مبانٍ",
+      "طلب تلوين متعدد أو قوالب كرتونية لطيفة أو خطوط رقمية ملساء"
+    ]
+  }
+}
